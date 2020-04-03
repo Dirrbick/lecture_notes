@@ -1,0 +1,21 @@
+{
+  "name": "401CodeNotes",
+  "version": "1.0.0",
+  "description": "## Class 1 Notes   * Writing test driven development     * Red: broken     * Green: Pass     * yellow: still in process   * Using Jest     * Package that makes it very simple to test JavaScript code     * Installed globally     * npm init inside of testing       * npm install jest   * Coverage     * the full coverage that is/needs to be tested     * if there is a line of code that isn't tested it will deduct",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node class-05/lab5Notes.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dirrbick/401CodeNotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dirrbick/401CodeNotes/issues"
+  },
+  "homepage": "https://github.com/Dirrbick/401CodeNotes#readme"
+}
